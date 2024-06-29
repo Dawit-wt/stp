@@ -9,7 +9,7 @@ public class Product {
 
 	private int Category_Id;
 	private char Description;
-	private int Price;
+	private float Price;
 	private int Product_Id;
 	private char Product_Name;
 	public Category m_Category;
